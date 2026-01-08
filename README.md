@@ -1,2 +1,3 @@
 # DIO_EXCEL_INVEST
-Trata-se de um projeto de simulação de investimento solicitado pelo instrutor Felipe
+Trata-se de um projeto de simulação de investimento solicitado pelo instrutor Felipe.
+Este repositório foi criado para disponibilizar o acesso ao projeto feito com o objetivo de aplicar os conceitos de Excel no desenvolvimento de um simulador de investimentos em fundos imobiliários. Na ferramenta, o investidor poderá preencher campos específicos, para que a ferramenta retorne as sugestões de investimentos, valores e percentuais sugeridos para cada perfil de investidor, assim como o valor total investido, o patrimônio acumulado e os dividendos mensais, oferecendo ao investidor o cenário mais claro possível de seus investimentos.
